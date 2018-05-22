@@ -1,7 +1,7 @@
-.col-4.header, .col-8.header {
+.col-3.header, .col-8.header {
 line-height: 55px;
 };
 
-body {
-	width: 80%;
+.mainContent {
+	align-content: space-around;
 }

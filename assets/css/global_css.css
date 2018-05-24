@@ -4,4 +4,7 @@ line-height: 55px;
 
 .mainContent {
 	align-content: space-around;
-}
+};
+p, h1, h2, h3, h4, a{
+	font-family: 'Playfair Display', serif;
+};

@@ -1,11 +1,9 @@
-.col-3.header, .col-8.header {
-line-height: 55px;
-};
-
 .main {
 	margin-top: 10px;
 };
 p, h1, h2, h3, h4, a{
 	font-family: 'Playfair Display', serif;
 };
-a
+html {
+	font-family:'Playfair Display', serif;
+};

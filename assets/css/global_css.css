@@ -1,9 +1,7 @@
 .main {
 	margin-top: 10px;
 };
-p, h1, h2, h3, h4, a{
+html, h1, h2, h3, h4, h5, h6, p, a{
 	font-family: 'Playfair Display', serif;
 };
-html {
-	font-family:'Playfair Display', serif;
-};
+
